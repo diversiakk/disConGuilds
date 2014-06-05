@@ -1,0 +1,6 @@
+name: Bans
+author: Diverse
+version: 1.0
+main: pl.div.bans.BansPlugin
+commands:
+  ban:

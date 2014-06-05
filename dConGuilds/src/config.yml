@@ -1,0 +1,8 @@
+MySQL:
+  Host: localhost
+  User: User
+  Password: Pass
+  Port: 3306
+  DatabaseName: mySQL
+Messages:
+  Permissions: "You dont have permissions to execute that command!"
